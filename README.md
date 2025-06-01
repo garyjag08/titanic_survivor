@@ -1,3 +1,4 @@
+<div style="color: blue; background-color: lightgray;">
 # titanic_survivor
 
 ## This repository demonstrates performing exploratory data analysis on the Titanic dataset to choose relevant features as input for classification tasks.
@@ -6,3 +7,4 @@
 
 ## Models Chosen
 - Naive Bayes Gaussian Classifier
+</div>
